@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/dnguye88?tab=repositories)
 
+- 📚 Some of my current interest in learning [Odin Project](https://www.theodinproject.com/)
+
 - 💬 Have a chat with me on Discord **Duy#2205**
 
 - 📫 Email me at **duy.acefsa@gmail.com**
