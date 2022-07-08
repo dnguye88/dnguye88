@@ -1,4 +1,4 @@
-                                          ### Hello 👋, I'm Duy
+                                          ### Hello 👋, I'm Duy ###
 
 - 🔭 I’m currently a Software Engineer at **Cognizant**
 
