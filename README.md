@@ -1,6 +1,6 @@
 
 <h1 align = "center">Hello 👋, I'm Duy</h1>
-![](https://komarev.com/ghpvc/?username=dnguye88)
+![](https://komarev.com/ghpvc/?username=dnguye88&color=green)
              
 - 🔭 I’m currently a Software Engineer at **Cognizant**
 
