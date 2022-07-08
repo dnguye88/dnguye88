@@ -1,6 +1,6 @@
-<p align= "center"> 
-### Hello 👋, I'm Duy
-</p> 
+
+<h1 align = "center">### Hello 👋, I'm Duy</h1>
+
              
 - 🔭 I’m currently a Software Engineer at **Cognizant**
 
