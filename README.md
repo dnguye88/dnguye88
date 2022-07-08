@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnguye88&label=Profile%20views&color=0e75b6&style=flat" alt="dnguye88" /> </p>
 
-- 🔭 I’m currently a Software Engineer for for **Cognizant**
+- 🔭 I’m currently a Software Engineer for Cognizant **I’m currently a Software Engineer for Cognizant**
 
-- 🌱 I’m currently learning Full Stack & Software Development
+- 🌱 I’m currently learning Full Stack & Software Development **I’m currently learning Full Stack & Software Development**
 
-- 👨‍💻 All of my projects are available at https://github.com/dnguye88
+- 👨‍💻 All of my projects are available at [here](https://github.com/dnguye88?tab=repositories)
 
 - 💬 Have a chat with me on Discord **Duy#2205**
 
