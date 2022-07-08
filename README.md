@@ -1,6 +1,6 @@
 
 <h1 align = "center">Hello 👋, I'm Duy</h1>
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
              
 - 🔭 I’m currently a Software Engineer at **Cognizant**
 
