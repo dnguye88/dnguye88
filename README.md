@@ -15,7 +15,7 @@
 
 - 📫 Email me at **duy.acefsa@gmail.com**
 
-- ⚡ Fun fact:**I love watching Anime & building custom keyboards)**
+- ⚡ Fun fact:**I love watching Anime & building custom keyboards**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
