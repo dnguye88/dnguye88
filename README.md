@@ -1,5 +1,5 @@
 
-<h1 align = "center">### Hello 👋, I'm Duy</h1>
+<h1 align = "center">Hello 👋, I'm Duy</h1>
 
              
 - 🔭 I’m currently a Software Engineer at **Cognizant**
