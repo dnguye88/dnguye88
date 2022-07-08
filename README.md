@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Full Stack & Software Development **I’m currently learning Full Stack & Software Development**
 
-- 👨‍💻 All of my projects are available at https://github.com/dnguye88?tab=repositories [https://github.com/dnguye88?tab=repositories](https://github.com/dnguye88?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/dnguye88?tab=repositories
 
 - 💬 Have a chat with me on Discord **Duy#2205**
 
