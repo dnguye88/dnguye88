@@ -1,5 +1,6 @@
-                                          ### Hello 👋, I'm Duy ###
-
+<p align= "center"
+### Hello 👋, I'm Duy
+                </p> 
 - 🔭 I’m currently a Software Engineer at **Cognizant**
 
 - 🌱 I’m currently learning **Full Stack & Software Development**
