@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**dnguye88/dnguye88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 Connect with me: https://www.linkedin.com/in/duydinhnguyen/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love building custom keyboards & Learn about investing
--->
+
