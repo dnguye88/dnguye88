@@ -5,5 +5,5 @@
 - 💬 Have a chat with me on Discord **Duy#2205**
 - 📫 Connect with me: https://www.linkedin.com/in/duydinhnguyen/
 - ✉️  Email me at duy.acefsa@gmail.com
-- ⚡ Fun fact: **I love building custom keyboards & Learn about investing **
+- ⚡ Fun fact: **I love building custom keyboards & Learn about investing**
 
